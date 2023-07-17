@@ -8,7 +8,8 @@ A Registration Form with Login and Signup screens having Firebase EMAIL and PASS
 
 [See Demo Video on Linkedin](https://www.linkedin.com/posts/muhammad-maaz-9b134a251_reactnative-firebase-appdevelopment-activity-7086650779075321859-MQk2?utm_source=share&utm_medium=member_desktop)
 
-###About App 
+### About App
+
 📱✨ Introducing Registration App with Firebase in React Native! ✨📱
 
 —a fully functional Registration App built using React Native and powered by Firebase authentication 🚀. This app allows users to sign up securely with their email and password, ensuring a smooth and hassle-free onboarding experience.
