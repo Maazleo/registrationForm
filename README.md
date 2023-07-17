@@ -5,4 +5,4 @@ A Registration Form with Login and Signup screens having Firebase EMAIL and PASS
 ![Local Image](./img/cover.png)
 
 DEMO :
-[See Demo Video on Linkedin]([https://www.linkedin.com/posts/muhammad-maaz-9b134a251_reactnative-firebase-appdevelopment-activity-7086650779075321859-MQk2?utm_source=share&utm_medium=member_desktop])
+[See Demo Video on Linkedin](https://www.linkedin.com/posts/muhammad-maaz-9b134a251_reactnative-firebase-appdevelopment-activity-7086650779075321859-MQk2?utm_source=share&utm_medium=member_desktop)
